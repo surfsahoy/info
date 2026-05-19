@@ -10,8 +10,8 @@
 <p align="center">⠀i’m not really the type to start conversations first, but please feel free to dm me anyway!! i genuinely love meeting new people even if i don’t always know what to say </3 </p>
 
 <p align="center">⠀i am not the person you imagined in your head, so stop mourning a version of me that never existed⠀</p>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-<div align="center">
+<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rqerrx7yvtsw7tpppujucdwhpm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=8fceff&interchange=false&profanity=false&hide_remaster=false&mode=light&bar_color=ffed91&bar_color_cover=false" alt="spotify-github-profile" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rqerrx7yvtsw7tpppujucdwhpm&cover_image=true&theme=spotify-embed&show_offline=true&background_color=bfe9ff&interchange=false&profanity=false&hide_remaster=false&bar_color=fff582&bar_color_cover=false&mode=light">
   </a>
-</div>
+</p>
