@@ -1,7 +1,7 @@
 <b> general info </b>
 
 <p align="center"> hellouuuu!! people usually call me finn or svet!!! </p>
-<p align="center"> she/he • filipino • bigender • demisexual & biromantic </p>
+<p align="center"> she/he • filipino • bigender • demisexual & lesbian </p>
 
 
 ⸝⸝
